@@ -1,0 +1,10 @@
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.csprojAssemblyReference.cache
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.Form1.resources
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.Properties.Resources.resources
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.csproj.GenerateResource.cache
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.csproj.CoreCompileInputs.cache
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\bin\Debug\SampleProgram001.exe.config
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\bin\Debug\SampleProgram001.exe
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\bin\Debug\SampleProgram001.pdb
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.exe
+C:\Users\ts-sungman.ko\AppData\Local\Temporary Projects\SampleProgram001\obj\Debug\SampleProgram001.pdb
